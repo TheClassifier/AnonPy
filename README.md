@@ -1,6 +1,7 @@
 # AnonPy
 A Python Class that allows you to upload and download files from anonfiles.com
 
+Usage:
 ```python
 from Anonfiles import Anonfiles
 
